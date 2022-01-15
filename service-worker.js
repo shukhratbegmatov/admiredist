@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.906f4a7506c3c65db00647fd5d461c41.js"
+  "/precache-manifest.cfbacad7674fd70a3560b392cb3e2d69.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "admire"});
